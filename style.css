@@ -1,0 +1,299 @@
+nav{
+    background-color:rgb(245, 245, 245);
+    width: 100%;
+    margin: auto;
+  
+}
+  
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+
+  }
+  .navbar a:hover {
+    background:royalblue round;
+    color: black;
+  }  
+  .navbar i{
+      
+    padding: 10px  10px  10px  10px;
+    margin: 2px;
+    background-color: rgb(53, 98, 233);
+  }
+i{ 
+    padding: 10px  10px  10px  10px;
+    margin: 2px;
+    border-radius: 50%;
+    background-color: rgb(53, 98, 233);
+}
+.row1{    
+    background-color: rgb(53, 98, 233);
+    height: 80px;
+   padding: 10px 10px 10px 10px;
+   display: inline-flex;
+   flex-direction: row;
+   padding-bottom: 20px;
+
+    
+}
+.row1col1{
+margin: 0px; 
+justify-content: center;
+padding-top: 20px;
+
+}
+ul{
+    list-style: none;
+}
+.newul{
+list-style: none;
+align-items: center;
+}
+.newli{
+    float: left;
+    padding: 0px;
+    margin:0px;
+}
+
+.headline{
+    background-color: white;
+    width: auto;
+    height: 25px;
+    margin: 0px 20px;
+    padding: 0px;
+
+}
+.latest-news{
+    margin-top: 15px; 
+    background-color: #316DC3; 
+    color: white;
+    height: 40px;
+
+
+}
+.introduction{
+    background-color: whitesmoke;
+    width: auto;
+    height: 820px;
+    padding: 0px 10px;
+    text-align: center;
+    justify-content:center;
+    
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 40px;
+    font-size: 35px;
+    padding-top: 10px;
+
+}
+.h1style1{
+    color: rgb(44, 78, 180);
+    font-size: 35px;
+    font-weight: 700;
+}
+.h1style2{
+    color: rgb(28, 145, 28);
+}
+.h1style3{
+    color: rgb(28, 145, 28);
+     margin: 20px
+}
+.h1style4{
+    color: rgb(44, 78, 180);
+    font-size: 25px; 
+    padding: 20px 10px 10px 10px;
+    margin: 10px 10px 30px 10px;
+    font-weight: 700;
+}
+h5{
+    color: rgb(44, 78, 180);
+    display: inline-block;
+}
+.h5style2{
+color: white;
+font-family: Cambria;
+margin-left: 40px;
+}
+
+
+
+.intro_paragraph{
+    text-align:justify;
+    padding: 0px 130px;
+    color:gray;
+    line-height: 1.9;
+}
+
+
+.main{ background-color: rgb(87, 124, 238);
+    width: auto;
+    height: 350px;
+    padding: 10px 10px;
+
+}
+.colcounter{ 
+    height: auto;
+    padding:60px 20px 20px 20px;
+
+}
+.count-title {
+    color: white;
+    font-family: Cambria;
+    font-size: 35px;
+    font-weight: 600px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+.count-text {
+    color:white;
+    font-family: Cambria;
+    font-size: 25px;
+    font-weight: 600px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+.what_we_are_doing{
+    background-color: whitesmoke;
+    width: auto;
+    height: 600px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    
+}
+
+.shortdiv{
+    border: 1px solid whitesmoke;
+    background-color: white;
+    float: left;
+    width: 300px;
+    height: 200px;
+    justify-content: center;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    margin: 10px 20px 10px 20px;
+    padding: 60px 20px 20px 20px;
+    
+    
+}
+
+.upcoming_mission_project{
+    background-color: white;
+    width: auto;
+    height: 400px;
+    padding: auto;
+}
+.mission_project{
+    width: 70%;
+    float: left;
+}
+.project{
+    border: 1px solid whitesmoke;
+    background-color:whitesmoke;
+    float: left;
+    width: 300px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    justify-content: center;
+    padding: 40px 20px 10px 20px;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    
+}
+
+
+.upcoming_coming_event{
+    width: 30%;
+    float: left;
+}
+coming_event{
+    width: auto;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+
+}
+.event{
+    padding: 10px 10px 10px 10px;
+    margin: 30px 10px 10px 10px;
+    width: auto;
+}
+.imagegallery{
+        background-color: white;
+        width: auto;
+        height: 400px;
+        padding: 10px 10px;
+        text-align: center;
+        }
+
+.imagestyle{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+.footer1{
+    background-color: black;
+    width: auto;
+    height: 350px;
+    padding: 50px 10px 10px 10px;
+}
+.details{
+      width: 40%; 
+      float: left;
+      height: auto;
+
+}
+
+.detailslist{
+    color:grey;
+    float: none;
+}
+.useful_links{
+      width: 30%; 
+      float: left;
+      height: auto;
+}
+.connect_with_us{
+    width: 30%;
+    float: left;
+    height: auto;
+}
+
+.footer2{
+    background-color: royalblue;
+    width: auto;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    margin:0px;
+
+}
+.footer p{
+    color: white; font-size: small;
+    padding: 0px 10px;
+
+}
+.Gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 70px;
+    right: 50px;
+  
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color:white;
+    font-size: 32px;
+  }
+  
+  
